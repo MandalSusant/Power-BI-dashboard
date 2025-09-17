@@ -1,2 +1,2 @@
-# Power-BI-dashboard
-Power BI dashboard
+# PowerBi
+there will be several visually appealing Dashboards created using PowerBi.
